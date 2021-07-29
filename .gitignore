@@ -1,0 +1,12 @@
+.idea
+.vscode
+.DS_Store
+*.env
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# pyenv
+.python-version
