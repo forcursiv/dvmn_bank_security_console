@@ -1,20 +1,18 @@
-# Bitly url shorterer
+# Bank security console
 
-[TODO: here would be project description]
+Security console to monitor employees and their operations.
 
 ### How to install
 
-[TODO: tell user where he should get keys, where they should be and how they look like]
-Create .env file with following consts
-
+Create .env file with following consts to be able to connect to database
 ```
-DB_HOST=
-DB_PORT=
-DB_NAME=
-DB_USER=
-DB_PASSWORD=
-SECRET_KEY=REPLACE_ME
-DEBUG=True
+DB_HOST=<database host>
+DB_PORT=<database port>
+DB_NAME=<database name>
+DB_USER=<database user>
+DB_PASSWORD=<databse password>
+SECRET_KEY=<website secret key>
+DEBUG=<debug flag>
 ```
 
 Python3 should be already installed. 
