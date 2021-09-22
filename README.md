@@ -12,7 +12,7 @@ DB_NAME=<database name>
 DB_USER=<database user>
 DB_PASSWORD=<databse password>
 SECRET_KEY=<website secret key>
-DEBUG=<debug flag>
+DJANGO_DEBUG=<debug flag>
 ```
 
 Python3 should be already installed. 
