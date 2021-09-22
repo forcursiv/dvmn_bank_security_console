@@ -13,6 +13,7 @@ DB_USER=<database user>
 DB_PASSWORD=<databse password>
 SECRET_KEY=<website secret key>
 DJANGO_DEBUG=<debug flag>
+ALLOWED_HOSTS=<list of allowed hosts>
 ```
 
 Python3 should be already installed. 
